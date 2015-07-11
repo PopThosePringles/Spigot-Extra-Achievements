@@ -1,0 +1,115 @@
+# Plugin enabled or disabled
+enabled: true
+
+# Should the achievements be broadcast to all online players?
+broadcast_to_all: true
+
+# How often should runnable tasks be run (in seconds)
+runnable_period: 10
+
+# ---- Achievements ----- #
+
+# Mined Stone / Cobblestone
+stone_cobblestone_1_title: Mine your first Stone / Cobblestone
+stone_cobblestone_1_desc: Mined your first Stone / Cobblestone with a pickaxe
+
+stone_cobblestone_100_title: Mine your 100th Stone / Cobblestone
+stone_cobblestone_100_desc: Mined your 100th Stone / Cobblestone with a pickaxe
+
+stone_cobblestone_1000_title: Mine your 1,000th Stone / Cobblestone
+stone_cobblestone_1000_desc: Mined your 1,000th Stone / Cobblestone with a pickaxe
+
+stone_cobblestone_10000_title: Mine your 10,000th Stone / Cobblestone
+stone_cobblestone_10000_desc: Mined your 10,000th Stone / Cobblestone with a pickaxe
+
+stone_cobblestone_100000_title: Mine your 100,000th Stone / Cobblestone
+stone_cobblestone_100000_desc: Mined your 100,000th Stone / Cobblestone with a pickaxe
+
+stone_cobblestone_1000000_title: Mine your 1,000,000th Stone / Cobblestone
+stone_cobblestone_1000000_desc: Mined your 1,000,000th Stone / Cobblestone with a pickaxe
+
+# Fish Caught
+fish_caught_50_title: Reel in 50 fish
+fish_caught_50_desc: Caught 50 fish
+
+fish_caught_100_title: Reel in 100 fish
+fish_caught_100_desc: Caught 100 fish
+
+fish_caught_1000_title: Reel in 1,000 fish
+fish_caught_1000_desc: Caught 1,000 fish
+
+fish_caught_5000_title: Reel in 5,000 fish
+fish_caught_5000_desc: Caught 5,000 fish
+
+fish_caught_10000_title: Reel in 10,000 fish
+fish_caught_10000_desc: Caught 10,000 fish
+
+# Tamed Horses
+tamed_horse_5_title: Tamed 5 horses
+tamed_horse_5_desc: Tamed your 5th horse
+
+tamed_horse_10_title: Tamed 10 horses
+tamed_horse_10_desc: Tamed your 10th horse
+
+tamed_horse_75_title: Tamed 75 horses
+tamed_horse_75_desc: Tamed your 75th horse
+
+tamed_horse_150_title: Tamed 150 horses
+tamed_horse_150_desc: Tamed your 150th horse
+
+tamed_horse_500_title: Tamed 500 horses
+tamed_horse_500_desc: Tamed your 500th horse
+
+# Placed Blocks
+placed_block_100_title: Placed 100 blocks
+placed_block_100_desc: Placed your 100th block
+
+placed_block_5000_title: Placed 5,000 blocks
+placed_block_5000_desc: Placed your 5,000th block
+
+placed_block_10000_title: Placed 10,000 blocks
+placed_block_10000_desc: Placed your 10,000th block
+
+placed_block_100000_title: Placed 100,000 blocks
+placed_block_100000_desc: Placed your 100,000th block
+
+# killed Mobs
+killed_mob_50_title: Killed 50 mobs
+killed_mob_50_desc: killed your 50th mob
+
+killed_mob_100_title: Killed 100 mobs
+killed_mob_100_desc: killed your 100th mob
+
+killed_mob_1000_title: Killed 1,000 mobs
+killed_mob_1000_desc: killed your 1,000th mob
+
+killed_mob_10000_title: Killed 10,000 mobs
+killed_mob_10000_desc: killed your 10,000th mob
+
+killed_mob_100000_title: Killed 100,000 mobs
+killed_mob_100000_desc: killed your 100,000th mob
+
+# Fall Distance
+fallen_200_title: Vertigo
+fallen_200_desc: Fallen 200 blocks and survived
+
+# Wearing All Diamond Armour
+all_diamond_armour_title: Bling Bling
+all_diamond_armour_desc: Fully equip a set of diamond armor
+
+# Survived For X Days
+survived_1_title: Survived 1 Day
+survived_1_desc: Survived 1 day without dying
+
+survived_10_title: Survived 10 Days
+survived_10_desc: Survived 10 days without dying
+
+survived_100_title: Survived 100 Days
+survived_100_desc: Survived 100 days without dying
+
+survived_1000_title: Survived 1,000 Days
+survived_1000_desc: Survived 1,000 days without dying
+
+# Music Disc
+music_disc_title: Flatcore D.J
+music_disc_desc: Get a music disc from a Creeper
