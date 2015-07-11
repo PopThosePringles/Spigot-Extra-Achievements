@@ -1,4 +1,4 @@
-package net.pixeldepth.extra_achievements.Utils;
+package net.pixeldepth.extra_achievements.items;
 
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
